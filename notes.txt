@@ -11,7 +11,5 @@ MERGE,
 2. ... je code ...
 3. git add .
 4. git commit -m "..."
-5. git checkout main
-6. git merge ma-branche    ← je remets mon travail dans main
-7. git push
+5. git push
  
