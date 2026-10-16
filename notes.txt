@@ -1,5 +1,4 @@
 Activer mon venv,".\venv\Scripts\activate"
-Lancer le jeu,"python main.py"
 
 PUSH,
 Sauvegarder sur GitHub,"git add ." puis "git commit -m "mon message"" puis "git push"
@@ -8,12 +7,11 @@ PULL,
 Récupérer de GitHub, "git pull"
 
 MERGE,
-1. git checkout ma-branche
-2. git merge main          ← je récupère le travail de mon binome
-3. ... je code ...
-4. git add .
-5. git commit -m "..."
-6. git checkout main
-7. git merge ma-branche    ← je remets mon travail dans main
-8. git push
+1. git merge main          ← je récupère le travail de mon binome
+2. ... je code ...
+3. git add .
+4. git commit -m "..."
+5. git checkout main
+6. git merge ma-branche    ← je remets mon travail dans main
+7. git push
  
