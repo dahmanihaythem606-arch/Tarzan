@@ -1,4 +1,6 @@
 Activer mon venv,".\venv\Scripts\activate"
+"Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned"
+
 
 PUSH,
 Sauvegarder sur GitHub,"git add ." puis "git commit -m "mon message"" puis "git push"
