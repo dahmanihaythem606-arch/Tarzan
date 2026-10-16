@@ -7,7 +7,7 @@ PULL,
 Récupérer de GitHub, "git pull"
 
 MERGE,
-1. git merge main          ← je récupère le travail de mon binome
+1. git pull          ← je récupère le travail de mon binome
 2. ... je code ...
 3. git add .
 4. git commit -m "..."
